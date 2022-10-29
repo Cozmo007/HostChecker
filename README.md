@@ -1,4 +1,4 @@
 # HostChecker
-cheque se um site esta no ar ou nao!
+verifique se um site esta no ar ou fora do ar!
 
 <strong>Feito totalmente em python (Tkinter)</strong>

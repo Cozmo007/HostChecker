@@ -6,7 +6,8 @@ try:
 	janela.title("Host checker")
 	janela.geometry("500x500")
 	janela["bg"] = "black"
-
+	janela.resizable(0, 0)
+	
 	def conecta():
 		try:
 			s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
